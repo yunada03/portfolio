@@ -50,7 +50,6 @@ SuperIntelligence 연구소 / SKAIX 기업
 - 최종 마스크 결과를 JSON 형식 또는 흑백 이미지로 저장 가능하도록 구현하여  
   추가 분석 및 임상 보고서 작성에 활용 가능하도록 설계
 
----
 
 ### AI 기반 분할 모델 고도화  
 AI 캡스톤 디자인  
@@ -59,12 +58,18 @@ AI 캡스톤 디자인
 - U-Net 기반 분할 모델의 구조적 한계 분석
 - 관련 논문 분석을 바탕으로 새로운 구조 및 학습 전략을 적용하여  
   분할 성능을 고도화하는 연구 프로젝트 수행
+- Multi-task Learning 기반 통합 안저 분할 모델 설계
+- CNN + Vision Transformer 공유 인코더 및 구조별 다중 디코더 적용
+- Teacher–Student 학습 전략을 활용한 부분 라벨 데이터 학습
+- 다중 공개 데이터셋 통합을 통한 일반화 성능 향상
+- 자동 분할 결과 확인 및 수동 보정이 가능한 사용자 인터페이스 구현
+
 
 ---
 
 ## MY LIFE PHILOSOPHY
 
-> “같은 실수를 여러 번 반복하지 말자.”
+> “같은 실수를 반복하지 말자.”
 
 ---
 
@@ -84,16 +89,17 @@ AI 캡스톤 디자인
 - Python
 - Java
 
+
 **CS & Systems**
 - System Programming
-- Data Structures
+- Computer Architecture
 - Algorithms
 
 ---
 
 ## LANGUAGES
 
-- English (Intermediate)
+- English
 
 ---
 
