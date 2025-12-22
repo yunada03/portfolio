@@ -63,7 +63,8 @@ AI 캡스톤 디자인
 - Teacher–Student 학습 전략을 활용한 부분 라벨 데이터 학습
 - 다중 공개 데이터셋 통합을 통한 일반화 성능 향상
 - 자동 분할 결과 확인 및 수동 보정이 가능한 사용자 인터페이스 구현
-- ![Uploading image.png…]()
+![Segmentation Architecture](images/segmentation_architecture.png)
+
 
 
 
