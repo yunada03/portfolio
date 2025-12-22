@@ -8,9 +8,7 @@ Software Engineering Undergraduate @ Sungkyunkwan University
 - 🔗 GitHub: https://github.com/yunada03  
 - 🔗 LinkedIn: https://linkedin.com/in/Yun-a-Kim-04b05b386  
 
-***
 ---
-...
 
 ## EXPERIENCE
 
@@ -21,7 +19,6 @@ Software Engineering Undergraduate @ Sungkyunkwan University
 - 고등학생 대상 학과 소개 및 전공 체험 프로그램 진행 (Python, C)
 - 신입생 멘토링 및 학과 적응 지원
 
----
 
 ### 소프트웨어융합대학 기자단  
 성균관대학교 소프트웨어융합대학  
@@ -30,7 +27,6 @@ Software Engineering Undergraduate @ Sungkyunkwan University
 - 소프트웨어융합대학 관련 기사 취재 및 작성
 - 기사 및 카드뉴스 제작 후 배포
 
----
 
 ### SIOR 서버부 임원진  
 정보통신대학 로봇 동아리 SIOR  
