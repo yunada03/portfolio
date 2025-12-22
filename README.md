@@ -6,10 +6,10 @@ Software Engineering Undergraduate @ Sungkyunkwan University
 - 📧 Email: oilhair365@naver.com  
 - 🌍 Location: 경기도 안양시  
 - 🔗 GitHub: https://github.com/yunada03  
-- 🔗 Homepage: https://www.homepage.com  
-- 🔗 LinkedIn: https://linkedin.com/in/Yun-a Kim  
+- 🔗 LinkedIn: https://linkedin.com/in/Yun-a-Kim-04b05b386  
 
----
+························
+
 
 ## EXPERIENCE
 
@@ -24,7 +24,7 @@ Software Engineering Undergraduate @ Sungkyunkwan University
 
 ### 소프트웨어융합대학 기자단  
 성균관대학교 소프트웨어융합대학  
-**2025.03 – 현재**
+**2025.03 – 2026.03**
 
 - 소프트웨어융합대학 관련 기사 취재 및 작성
 - 기사 및 카드뉴스 제작 후 배포
@@ -33,7 +33,7 @@ Software Engineering Undergraduate @ Sungkyunkwan University
 
 ### SIOR 서버부 임원진  
 정보통신대학 로봇 동아리 SIOR  
-**2025.03 – 현재**
+**2025.03 – 2026.03**
 
 - 동아리 홈페이지 제작 및 유지보수
 - 신규 콘텐츠 및 기능 업데이트
@@ -57,7 +57,7 @@ SuperIntelligence 연구소 / SKAIX 기업
 
 ### AI 기반 분할 모델 고도화  
 AI 캡스톤 디자인  
-**2025.09 – 2025.12 (예정)**
+**2025.09 – 2025.12**
 
 - U-Net 기반 분할 모델의 구조적 한계 분석
 - 관련 논문 분석을 바탕으로 새로운 구조 및 학습 전략을 적용하여  
