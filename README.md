@@ -8,8 +8,9 @@ Software Engineering Undergraduate @ Sungkyunkwan University
 - 🔗 GitHub: https://github.com/yunada03  
 - 🔗 LinkedIn: https://linkedin.com/in/Yun-a-Kim-04b05b386  
 
-························
-
+***
+---
+...
 
 ## EXPERIENCE
 
