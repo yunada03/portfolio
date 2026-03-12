@@ -104,7 +104,7 @@ AI 캡스톤 디자인
 
 ## LANGUAGES
 
-- English
+- English(toeic 845)
 
 ---
 
