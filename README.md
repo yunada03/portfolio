@@ -49,7 +49,7 @@ SuperIntelligence 연구소 / SKAIX 기업
   다각형을 수정할 수 있는 수동 편집 기능 구현
 - 최종 마스크 결과를 JSON 형식 또는 흑백 이미지로 저장 가능하도록 구현하여  
   추가 분석 및 임상 보고서 작성에 활용 가능하도록 설계
-<!-- ![Segmentation User Interface](images/segmentation_user_Interface.png) -->
+  ![Segmentation User Interface](images/segmentation_user_Interface.png) 
 
 
 
