@@ -44,14 +44,11 @@ Software Engineering Undergraduate @ Sungkyunkwan University
 **2025.03 – 2025.06**
 
 - x86-64 어셈블리 코드를 분석하여 Bomb Lab phase별 입력 검증 로직을 역추적
-- GDB를 활용해 레지스터, 스택, 분기 조건, 함수 반환값 변화를 확인하며  
-  정적/동적 분석 방식으로 프로그램 실행 흐름 분석
-- 재귀 함수 `func4`, XOR/AND 기반 문자열 변환, lookup table, linked list 재배열 등  
-  다양한 검증 로직을 분석하고 의사코드 형태로 복원
-- Custom Validation Binary에서 `validate`, `shuf` 함수와 byte reorder, XOR 연산을 분석하여  
-  password 생성 및 검증 과정을 역산
-- 수업 기반 분석 내용을 악성코드 분석 직무와 연결하여  
-  바이너리 리버싱 포트폴리오 PDF로 재구성
+- GDB를 활용해 레지스터, 스택, 분기 조건, 함수 반환값 변화를 확인하며 정적/동적 분석 방식으로 프로그램 실행 흐름 분석
+- 재귀 함수 `func4`, XOR/AND 기반 문자열 변환, lookup table, linked list 재배열 등 다양한 검증 로직을 분석하고 의사코드 형태로 복원
+- Custom Validation Binary에서 `validate`, `shuf` 함수와 byte reorder, XOR 연산을 분석하여 password 생성 및 검증 과정을 역산
+- 수업 기반 분석 내용을 악성코드 분석 직무와 연결하여 바이너리 리버싱 포트폴리오 PDF로 재구성
+
   📄 [포트폴리오 PDF 보기](./files/김윤아_Binary_Reverse_Engineering_Portfolio.pdf)
 
 ### AI 기반 안저 마스킹 편집 프로그램 개발  
