@@ -39,7 +39,7 @@ Software Engineering Undergraduate @ Sungkyunkwan University
 
 ## PROJECTS
 
-### Binary Reverse Engineering Practice Portfolio  
+### Binary Reverse Engineering 수행
 시스템프로그래밍 / 바이너리 리버싱  
 **2025.03 – 2025.06**
 
@@ -49,7 +49,9 @@ Software Engineering Undergraduate @ Sungkyunkwan University
 - Custom Validation Binary에서 `validate`, `shuf` 함수와 byte reorder, XOR 연산을 분석하여 password 생성 및 검증 과정을 역산
 - 수업 기반 분석 내용을 악성코드 분석 직무와 연결하여 바이너리 리버싱 포트폴리오 PDF로 재구성
 
-  📄 [포트폴리오 PDF 보기](./files/김윤아_Binary_Reverse_Engineering_Portfolio.pdf)
+  📄 [포트폴리오 PDF 보기](./files/김윤아_Binary_Reverse_Engineering_Portfolio.pdf)<br><br><br>
+
+  
 
 ### AI 기반 안저 마스킹 편집 프로그램 개발  
 SuperIntelligence 연구소 / SKAIX 기업  
@@ -61,7 +63,9 @@ SuperIntelligence 연구소 / SKAIX 기업
   다각형을 수정할 수 있는 수동 편집 기능 구현
 - 최종 마스크 결과를 JSON 형식 또는 흑백 이미지로 저장 가능하도록 구현하여  
   추가 분석 및 임상 보고서 작성에 활용 가능하도록 설계
-  ![Segmentation User Interface](images/segmentation_user_Interface.png) 
+  ![Segmentation User Interface](images/segmentation_user_Interface.png) <br><br><br>
+
+
 
 
 
