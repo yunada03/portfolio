@@ -98,7 +98,7 @@ AI 캡스톤 디자인
 **CS & Systems**
 - System Programming
 - Computer Architecture
-- Algorithms
+- Operating System
 
 ---
 
