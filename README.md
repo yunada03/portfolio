@@ -9,7 +9,13 @@ Software Engineering Undergraduate @ Sungkyunkwan University
 - 🔗 LinkedIn: https://linkedin.com/in/Yun-a-Kim-04b05b386  
 
 ---
+## EDUCATION
 
+### 성균관대학교 소프트웨어학과
+**2024.03 – 현재**  
+3학년 재학 중
+
+---
 ## EXPERIENCE
 
 ### 소프트웨어학과 알리미  
@@ -30,10 +36,18 @@ Software Engineering Undergraduate @ Sungkyunkwan University
 
 ### SIOR 서버부 임원진  
 정보통신대학 로봇 동아리 SIOR  
-**2025.03 – 2026.03**
+**2025.03 – 2026.11**
 
 - 동아리 홈페이지 제작 및 유지보수
 - 신규 콘텐츠 및 기능 업데이트
+
+
+- ### 소프트웨어융합대학 학생회
+성균관대학교 소프트웨어융합대학  
+**2026.03 – 2026.11**
+
+- 소프트웨어융합대학 관련 행사 진행
+
 
 ---
 
@@ -84,7 +98,20 @@ AI 캡스톤 디자인
 ![Segmentation Architecture](images/segmentation_architecture.png)
 
 
+---
 
+### Reinforcement Learning Study
+Physical AI / 강화학습  
+**2026 – 진행 중**
+
+Physical AI와 로봇 제어에 관심을 갖고 강화학습 알고리즘 및 모델 평가 방법 학습
+
+- SAC, TD3 등 강화학습 알고리즘의 구조와 학습 방식 학습
+- SAC 기반 로봇 조작 환경에서 모델 학습 및 성능 평가 실험 진행
+- 학습률, 시드 등 실험 조건에 따른 학습 결과 변화 관찰
+- 학습 손실과 최종 성능의 관계, 실험 조건 설정 및 평가 방법 탐구
+
+**Tech Stack:** Python, Reinforcement Learning, SAC, TD3 (Study)
 
 ---
 
@@ -125,8 +152,10 @@ AI 캡스톤 디자인
 
 ---
 
-## EDUCATION
+## ASSESSMENTS
 
-### 성균관대학교 소프트웨어학과
-**2024.03 – 현재**  
-3학년 재학 중
+- **TOPCIT** | 620 / 1,000 (Level 3), 2026
+
+---
+
+
