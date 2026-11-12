@@ -42,7 +42,7 @@ Software Engineering Undergraduate @ Sungkyunkwan University
 - 신규 콘텐츠 및 기능 업데이트
 
 
-- ### 소프트웨어융합대학 학생회
+### 소프트웨어융합대학 학생회
 성균관대학교 소프트웨어융합대학  
 **2026.03 – 2026.11**
 
@@ -98,7 +98,7 @@ AI 캡스톤 디자인
 ![Segmentation Architecture](images/segmentation_architecture.png)
 
 
----
+
 
 ### Reinforcement Learning Study
 Physical AI / 강화학습  
@@ -118,18 +118,11 @@ Physical AI와 로봇 제어에 관심을 갖고 강화학습 알고리즘 및 �
 ## Awards
 
 ### 2026 캐주얼 해커톤 3등
+성균관대학교 소프트웨어융합대학 주관
 - 미션 형식 명소 추천 어플 개발
 
 ---
 
-## STRENGTHS
-
-- Leadership  
-- Responsibility  
-- Deadline Management  
-- Fast Execution  
-
----
 
 ## SKILLS
 
